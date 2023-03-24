@@ -44,3 +44,4 @@ function osszealit(KEPEKLISTA) {
     txt = "talált";
   }
 } */
+//random lista
